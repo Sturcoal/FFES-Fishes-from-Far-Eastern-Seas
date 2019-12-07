@@ -1,0 +1,155 @@
+Sample ID,Order,Family,Speceis,Museum voucher number,BOLD Process ID,Sampling location
+37-07,Clupeiformes,Engraulidae,Engraulis japonicus,MIMB21305,FFES044-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+38-07,Clupeiformes,Engraulidae,Engraulis japonicus,MIMB21306,FFES045-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+70-07,Clupeiformes,Engraulidae,Engraulis japonicus,MIMB21587,FFES046-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+71-07,Clupeiformes,Engraulidae,Engraulis japonicus,MIMB21588,FFES047-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Ber276,Gadiformes,Gadidae,Boreogadus saida,MIMB22373,FFES024-18,Bering Sea
+Ber277,Gadiformes,Gadidae,Boreogadus saida,MIMB22376,FFES025-18,Bering Sea
+Ber278,Gadiformes,Gadidae,Boreogadus saida,MIMB22374,FFES026-18,Bering Sea
+Ber279,Gadiformes,Gadidae,Boreogadus saida,MIMB22375,FFES027-18,Bering Sea
+Ber280,Gadiformes,Gadidae,Boreogadus saida,MIMB22377,FFES028-18,Bering Sea
+28,Gadiformes,Gadidae,Eleginus gracilis,MIMB21274,FFES040-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+44-07,Gadiformes,Gadidae,Eleginus gracilis,MIMB21598,FFES041-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+75-07,Gadiformes,Gadidae,Eleginus gracilis,MIMB21302,FFES042-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+76-07,Gadiformes,Gadidae,Eleginus gracilis,MIMB21301,FFES043-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Ber222,Gadiformes,Macrouridae,Albatrossia pectoralis,MIMB22354,FFES001-18,Bering Sea
+Ber223,Gadiformes,Macrouridae,Albatrossia pectoralis,MIMB22355,FFES002-18,Bering Sea
+Ber224,Gadiformes,Macrouridae,Albatrossia pectoralis,MIMB22356,FFES003-18,Bering Sea
+Ber225,Gadiformes,Macrouridae,Albatrossia pectoralis,MIMB22357,FFES004-18,Bering Sea
+Ber17,Gadiformes,Macrouridae,Coryphaenoides acrolepis,MIMB22370,FFES029-18,Bering Sea
+Ber19,Gadiformes,Macrouridae,Coryphaenoides acrolepis,MIMB22368,FFES030-18,Bering Sea
+Ber20,Gadiformes,Macrouridae,Coryphaenoides acrolepis,MIMB22371,FFES031-18,Bering Sea
+Ber11,Gadiformes,Macrouridae,Coryphaenoides cinereus,MIMB22381,FFES032-18,Bering Sea
+Ber12,Gadiformes,Macrouridae,Coryphaenoides cinereus,MIMB22382,FFES033-18,Bering Sea
+Ber13,Gadiformes,Macrouridae,Coryphaenoides cinereus,MIMB22378,FFES034-18,Bering Sea
+Ber14,Gadiformes,Macrouridae,Coryphaenoides cinereus,MIMB22380,FFES035-18,Bering Sea
+Ber15,Gadiformes,Macrouridae,Coryphaenoides cinereus,MIMB22379,FFES036-18,Bering Sea
+Ber186,Gadiformes,Moridae,Antimora microlepis,MIMB22359,FFES005-18,Bering Sea
+Ber187,Gadiformes,Moridae,Antimora microlepis,MIMB22360,FFES006-18,Bering Sea
+Ber188,Gadiformes,Moridae,Antimora microlepis,MIMB22362,FFES007-18,Bering Sea
+11,Mugiliformes,Mugilidae,Mugil cephalus,MIMB21353,FFES098-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+82-07,Mugiliformes,Mugilidae,Mugil cephalus,MIMB21363,FFES099-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+77-07,Mugiliformes,Mugilidae,Planiliza haematocheila,MIMB21313,FFES096-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Okh_10,Osmeriformes,Osmeridae,Mallotus villosus,MIMB27264,DBFOR010-12,Okhotsk sea
+Okh_9,Osmeriformes,Osmeridae,Mallotus villosus,MIMB27263,DBFOR009-12,Okhotsk sea
+Okh_12,Osmeriformes,Osmeridae,Mallotus villosus,MIMB27266,DBFOR012-12,Okhotsk sea
+Okh_13,Osmeriformes,Osmeridae,Mallotus villosus,MIMB27267,DBFOR013-12,Okhotsk sea
+Okh_11,Osmeriformes,Osmeridae,Mallotus villosus,MIMB27265,DBFOR011-12,Okhotsk sea
+69-07,Osmeriformes,Osmeridae,Osmerus mordax,MIMB21309,FFES108-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+72-07,Osmeriformes,Osmeridae,Osmerus mordax,MIMB21594,FFES109-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+74-07,Osmeriformes,Osmeridae,Osmerus mordax,MIMB21593,FFES110-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Jap19,Osmeriformes,Osmeridae,Osmerus mordax,MIMB21252,FFES111-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Ber164,Scorpaeniformes,Agonidae,Aspidophoroides bartoni,MIMB21641,FFES012-18,Bering Sea
+Ber161,Scorpaeniformes,Agonidae,Aspidophoroides bartoni,MIMB21642,FFES013-18,Bering Sea
+Ber162,Scorpaeniformes,Agonidae,Aspidophoroides bartoni,MIMB21645,FFES014-18,Bering Sea
+Ber163,Scorpaeniformes,Agonidae,Aspidophoroides bartoni,MIMB21643,FFES015-18,Bering Sea
+Ber291,Scorpaeniformes,Agonidae,Aspidophoroides olrikii,-,FFES144-18,Bering Sea
+Ber292,Scorpaeniformes,Agonidae,Aspidophoroides olrikii,-,FFES145-18,Bering Sea
+Ber294,Scorpaeniformes,Agonidae,Aspidophoroides olrikii,-,FFES146-18,Bering Sea
+Ber295,Scorpaeniformes,Agonidae,Aspidophoroides olrikii,-,FFES147-18,Bering Sea
+Ber146,Scorpaeniformes,Agonidae,Bathyagonus nigripinnis,MIMB21633,FFES016-18,Bering Sea
+Ber147,Scorpaeniformes,Agonidae,Bathyagonus nigripinnis,MIMB21635,FFES017-18,Bering Sea
+Ber148,Scorpaeniformes,Agonidae,Bathyagonus nigripinnis,MIMB21632,FFES018-18,Bering Sea
+Ber149,Scorpaeniformes,Agonidae,Bathyagonus nigripinnis,MIMB21634,FFES019-18,Bering Sea
+Ber150,Scorpaeniformes,Agonidae,Bathyagonus nigripinnis,MIMB21631,FFES020-18,Bering Sea
+23-07,Scorpaeniformes,Agonidae,Blepsias cirrhosus,MIMB21286,FFES021-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+25-07,Scorpaeniformes,Agonidae,Blepsias cirrhosus,MIMB21285,FFES022-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+24-07,Scorpaeniformes,Agonidae,Blepsias cirrhosus,MIMB21289,FFES023-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Ber121,Scorpaeniformes,Agonidae,Hypsagonus quadricornis,MIMB21843,FFES084-18,Bering Sea
+Ber122,Scorpaeniformes,Agonidae,Hypsagonus quadricornis,MIMB21845,FFES085-18,Bering Sea
+Ber123,Scorpaeniformes,Agonidae,Hypsagonus quadricornis,MIMB21844,FFES086-18,Bering Sea
+Ber124,Scorpaeniformes,Agonidae,Hypsagonus quadricornis,MIMB21847,FFES087-18,Bering Sea
+Ber125,Scorpaeniformes,Agonidae,Hypsagonus quadricornis,MIMB21846,FFES088-18,Bering Sea
+Ber166,Scorpaeniformes,Agonidae,Nautichthys pribilovius,-,FFES103-18,Bering Sea
+Ber167,Scorpaeniformes,Agonidae,Nautichthys pribilovius,-,FFES104-18,Bering Sea
+Ber168,Scorpaeniformes,Agonidae,Nautichthys pribilovius,-,FFES105-18,Bering Sea
+Ber169,Scorpaeniformes,Agonidae,Nautichthys pribilovius,-,FFES106-18,Bering Sea
+Ber170,Scorpaeniformes,Agonidae,Nautichthys pribilovius,-,FFES107-18,Bering Sea
+Okh_57,Scorpaeniformes,Agonidae,Podothecus sturioides,MIMB27311,DBFOR057-12,Okhotsk sea
+Okh_56,Scorpaeniformes,Agonidae,Podothecus sturioides,MIMB27310,DBFOR056-12,Okhotsk sea
+Okh_54,Scorpaeniformes,Agonidae,Podothecus sturioides,MIMB27308,DBFOR054-12,Okhotsk sea
+Okh_55,Scorpaeniformes,Agonidae,Podothecus sturioides,MIMB27309,DBFOR055-12,Okhotsk sea
+Okh_64,Scorpaeniformes,Agonidae,Podothecus veternus,MIMB27318,DBFOR064-12,Okhotsk sea
+Ber67,Scorpaeniformes,Agonidae,Podothecus veternus,MIMB21861,FFES120-18,Bering Sea
+Ber69,Scorpaeniformes,Agonidae,Podothecus veternus,MIMB21858,FFES121-18,Bering Sea
+Ber70,Scorpaeniformes,Agonidae,Podothecus veternus,MIMB21860,FFES122-18,Bering Sea
+Okh_63,Scorpaeniformes,Agonidae,Podothecus veternus,MIMB27317,DBFOR063-12,Okhotsk sea
+Ber116,Scorpaeniformes,Agonidae,Sarritor frenatus,MIMB21602,FFES124-18,Bering Sea
+Ber117,Scorpaeniformes,Agonidae,Sarritor frenatus,MIMB21601,FFES125-18,Bering Sea
+Ber119,Scorpaeniformes,Agonidae,Sarritor frenatus,MIMB21603,FFES126-18,Bering Sea
+Ber120,Scorpaeniformes,Agonidae,Sarritor frenatus,MIMB21599,FFES127-18,Bering Sea
+Ber211,Scorpaeniformes,Agonidae,Sarritor leptorhynchus,MIMB21652,FFES128-18,Bering Sea
+Ber212,Scorpaeniformes,Agonidae,Sarritor leptorhynchus,MIMB21651,FFES129-18,Bering Sea
+Ber214,Scorpaeniformes,Agonidae,Sarritor leptorhynchus,MIMB21655,FFES130-18,Bering Sea
+Ber215,Scorpaeniformes,Agonidae,Sarritor leptorhynchus,MIMB21654,FFES131-18,Bering Sea
+Ber37,Scorpaeniformes,Cottidae,Artediellus miacanthus,-,FFES008-18,Bering Sea
+Ber38,Scorpaeniformes,Cottidae,Artediellus miacanthus,-,FFES009-18,Bering Sea
+Ber40,Scorpaeniformes,Cottidae,Artediellus miacanthus,-,FFES010-18,Bering Sea
+Ber36,Scorpaeniformes,Cottidae,Artediellus miacanthus,-,FFES011-18,Bering Sea
+Ber171,Scorpaeniformes,Cottidae,Enophrys diceraus,MIMB21650,FFES048-18,Bering Sea
+Ber172,Scorpaeniformes,Cottidae,Enophrys diceraus,MIMB21647,FFES049-18,Bering Sea
+Ber173,Scorpaeniformes,Cottidae,Enophrys diceraus,MIMB21648,FFES050-18,Bering Sea
+Ber174,Scorpaeniformes,Cottidae,Enophrys diceraus,MIMB21646,FFES051-18,Bering Sea
+Ber175,Scorpaeniformes,Cottidae,Enophrys diceraus,MIMB21649,FFES052-18,Bering Sea
+Ber78,Scorpaeniformes,Cottidae,Gymnocanthus galeatus,MIMB21611,FFES066-18,Bering Sea
+Ber79,Scorpaeniformes,Cottidae,Gymnocanthus galeatus,MIMB21610,FFES067-18,Bering Sea
+Ber80,Scorpaeniformes,Cottidae,Gymnocanthus galeatus,MIMB21609,FFES068-18,Bering Sea
+Okh_32,Scorpaeniformes,Cottidae,Gymnocanthus pistilliger,MIMB27286,DBFOR032-12,Okhotsk sea
+Okh_30,Scorpaeniformes,Cottidae,Gymnocanthus pistilliger,MIMB27284,DBFOR030-12,Okhotsk sea
+Okh_28,Scorpaeniformes,Cottidae,Gymnocanthus pistilliger,MIMB27282,DBFOR028-12,Okhotsk sea
+Okh_31,Scorpaeniformes,Cottidae,Gymnocanthus pistilliger,MIMB27285,DBFOR031-12,Okhotsk sea
+Okh_29,Scorpaeniformes,Cottidae,Gymnocanthus pistilliger,MIMB27283,DBFOR029-12,Okhotsk sea
+Ber296,Scorpaeniformes,Cottidae,Gymnocanthus tricuspis,-,FFES069-18,Bering Sea
+Ber297,Scorpaeniformes,Cottidae,Gymnocanthus tricuspis,-,FFES070-18,Bering Sea
+Ber298,Scorpaeniformes,Cottidae,Gymnocanthus tricuspis,-,FFES071-18,Bering Sea
+Ber300,Scorpaeniformes,Cottidae,Gymnocanthus tricuspis,-,FFES072-18,Bering Sea
+Ber201,Scorpaeniformes,Cottidae,Hemilepidotus gilberti,-,FFES073-18,Bering Sea
+Ber202,Scorpaeniformes,Cottidae,Hemilepidotus gilberti,-,FFES074-18,Bering Sea
+Ber203,Scorpaeniformes,Cottidae,Hemilepidotus gilberti,-,FFES075-18,Bering Sea
+Ber204,Scorpaeniformes,Cottidae,Hemilepidotus gilberti,-,FFES076-18,Bering Sea
+Ber205,Scorpaeniformes,Cottidae,Hemilepidotus gilberti,-,FFES077-18,Bering Sea
+Ber42,Scorpaeniformes,Cottidae,Icelus canaliculatus,MIMB21681,FFES089-18,Bering Sea
+Ber44,Scorpaeniformes,Cottidae,Icelus canaliculatus,MIMB21680,FFES090-18,Bering Sea
+Ber45,Scorpaeniformes,Cottidae,Icelus canaliculatus,MIMB21682,FFES091-18,Bering Sea
+Ber132,Scorpaeniformes,Cottidae,Icelus spatula,MIMB21853,FFES092-18,Bering Sea
+Ber133,Scorpaeniformes,Cottidae,Icelus spatula,MIMB21857,FFES093-18,Bering Sea
+Ber134,Scorpaeniformes,Cottidae,Icelus spatula,MIMB21854,FFES094-18,Bering Sea
+Ber135,Scorpaeniformes,Cottidae,Icelus spatula,MIMB21855,FFES095-18,Bering Sea
+45-07,Scorpaeniformes,Cottidae,Megalocottus platycephalus,MIMB21283,FFES097-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+47-07,Scorpaeniformes,Cottidae,Myoxocephalus jaok,MIMB21312,FFES100-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+48-07,Scorpaeniformes,Cottidae,Myoxocephalus jaok,MIMB21311,FFES101-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+59-07,Scorpaeniformes,Cottidae,Myoxocephalus jaok,MIMB21310,FFES102-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Ber129,Scorpaeniformes,Cottidae,Trichocottus brashnikovi,MIMB21665,FFES139-18,Bering Sea
+Ber130,Scorpaeniformes,Cottidae,Trichocottus brashnikovi,MIMB21661,FFES140-18,Bering Sea
+Ber128,Scorpaeniformes,Cottidae,Trichocottus brashnikovi,MIMB21664,FFES141-18,Bering Sea
+Ber85,Scorpaeniformes,Cottidae,Triglops scepticus,MIMB21619,FFES143-18,Bering Sea
+Ber196,Scorpaeniformes,Cyclopteridae,Eumicrotremus asperrimus,MIMB22389,FFES053-18,Bering Sea
+Ber197,Scorpaeniformes,Cyclopteridae,Eumicrotremus asperrimus,MIMB22390,FFES054-18,Bering Sea
+Ber198,Scorpaeniformes,Cyclopteridae,Eumicrotremus asperrimus,MIMB22392,FFES055-18,Bering Sea
+Ber199,Scorpaeniformes,Cyclopteridae,Eumicrotremus asperrimus,MIMB22391,FFES056-18,Bering Sea
+Ber200,Scorpaeniformes,Cyclopteridae,Eumicrotremus asperrimus,MIMB22393,FFES057-18,Bering Sea
+84-07,Scorpaeniformes,Hexagrammidae,Hexagrammos octogrammus X Hexagrammos otakii,MIMB21525,FFES078-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+85-07,Scorpaeniformes,Hexagrammidae,Hexagrammos otakii,MIMB21324,FFES079-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+83-07,Scorpaeniformes,Hexagrammidae,Hexagrammos otakii,MIMB21323,FFES080-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+Okh_8,Scorpaeniformes,Hexagrammidae,Hexagrammos stelleri,MIMB27262,DBFOR008-12,Okhotsk sea
+Okh_7,Scorpaeniformes,Hexagrammidae,Hexagrammos stelleri,MIMB27261,DBFOR007-12,Okhotsk sea
+Okh_15,Scorpaeniformes,Hexagrammidae,Hexagrammos stelleri,MIMB27269,DBFOR015-12,Okhotsk sea
+Okh_16,Scorpaeniformes,Hexagrammidae,Hexagrammos stelleri,MIMB27270,DBFOR016-12,Okhotsk sea
+Okh_17,Scorpaeniformes,Hexagrammidae,Hexagrammos stelleri,MIMB27271,DBFOR017-12,Okhotsk sea
+Okh_6,Scorpaeniformes,Hexagrammidae,Pleurogrammus monopterygius,MIMB27260,DBFOR006-12,Okhotsk sea
+Ber151,Scorpaeniformes,Liparidae,Elassodiscus tremebundus,MIMB21864,FFES037-18,Bering Sea
+Ber154,Scorpaeniformes,Liparidae,Elassodiscus tremebundus,MIMB21863,FFES038-18,Bering Sea
+Ber155,Scorpaeniformes,Liparidae,Elassodiscus tremebundus,MIMB21867,FFES039-18,Bering Sea
+Ber266,Scorpaeniformes,Psychrolutidae,Eurymen gyrinus,MIMB21617,FFES058-18,Bering Sea
+Ber267,Scorpaeniformes,Psychrolutidae,Eurymen gyrinus,MIMB21615,FFES059-18,Bering Sea
+Ber268,Scorpaeniformes,Psychrolutidae,Eurymen gyrinus,MIMB21616,FFES060-18,Bering Sea
+Ber269,Scorpaeniformes,Psychrolutidae,Eurymen gyrinus,MIMB21614,FFES061-18,Bering Sea
+Ber98,Scorpaeniformes,Psychrolutidae,Psychrolutes phrictus,MIMB21623,FFES123-18,Bering Sea
+Ber136,Scorpaeniformes,Scorpaenidae,Sebastes alutus,MIMB21666,FFES132-18,Bering Sea
+Ber137,Scorpaeniformes,Scorpaenidae,Sebastes alutus,MIMB21669,FFES133-18,Bering Sea
+Ber138,Scorpaeniformes,Scorpaenidae,Sebastes alutus,MIMB21667,FFES134-18,Bering Sea
+Ber139,Scorpaeniformes,Scorpaenidae,Sebastes alutus,MIMB21668,FFES135-18,Bering Sea
+Ber140,Scorpaeniformes,Scorpaenidae,Sebastes alutus,MIMB21670,FFES136-18,Bering Sea
+Okh35,Scorpaeniformes,Trichodontidae,Trichodon trichodon,MIMB27289,FFES142-18,Sea of Okhotsk
+28-07,Syngnathiformes,Syngnathidae,Syngnathus schlegeli,MIMB21366,FFES137-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
+4-07,Syngnathiformes,Syngnathidae,Syngnathus schlegeli,MIMB21367,FFES138-18,"Sea of Japan, Peter the Great Bay, Vostok Bay"
