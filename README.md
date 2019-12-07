@@ -8,6 +8,6 @@ The reference database - [154 aligned partial *COI* sequences](https://github.co
 Table [S](https://github.com/Sturcoal/FFES-Fishes-from-Far-Eastern-Seas-/blob/master/Table%20man%20numb.csv) - the information on taxonomy and location of the speciemens linked to the *COI* sequences that were used to build the reference library for identification of marime far eastern fishes.
 
 ----
-NJ-[tree](https://github.com/Sturcoal/FFES-Fishes-from-Far-Eastern-Seas-/blob/master/tree%2028112019.PDF) of *COI* sequences based on K2P model demonstrating the relationships between fish speciemens   
+NJ-[tree](https://github.com/Sturcoal/FFES-Fishes-from-Far-Eastern-Seas-/blob/master/tree%2028112019.PDF) of *COI* sequences based on K2P model demonstrating the relationships between fish speciemens.   
 
 
